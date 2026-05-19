@@ -121,12 +121,8 @@ The project explores how neural oscillations can shape immersive computational a
 
 Planned directions include:
 
-- EEG-reactive audio synthesis
-- Multimodal biosignal interaction
 - Real-time EEG streaming
-- Spatial EEG mapping
-- AI-generated visual textures
-- Projection-based installations
+- EEG-reactive audio synthesis
 - VR/immersive environments
 
 ---
