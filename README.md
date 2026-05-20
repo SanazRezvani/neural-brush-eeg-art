@@ -41,6 +41,10 @@ Rather than functioning as a clinical brain-computer interface, Neural Brush exp
 
 ---
 
+You can play around with the application [here](https://neural-brush.streamlit.app)
+
+---
+
 ## Technologies Used
 
 - Python
