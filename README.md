@@ -41,7 +41,9 @@ Rather than functioning as a clinical brain-computer interface, Neural Brush exp
 
 ---
 
-You can play around with the application [here](https://neural-brush.streamlit.app)
+## Explore the live interactive version of the application [here](https://neural-brush.streamlit.app)
+
+The application allows users to experiment with EEG-driven generative visuals in real time by either using the built-in demo EEG dataset or uploading their own EEG CSV recordings. As neural oscillatory dynamics change over time, the visual environment continuously adapts through flow-field motion, particle behaviour, atmospheric glow, and neuro-reactive colour transformations.
 
 ---
 
