@@ -1,6 +1,6 @@
 # Neural Brush
 
-Real-time EEG-driven generative art using flow fields, particle systems, and neuro-reactive visual interaction.
+Real-time EEG-driven generative art using neuro-reactive visual interaction, flow fields, and particle systems.
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
@@ -67,21 +67,7 @@ neural-brush-eeg-art/
 
 ## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/SanazRezvani/neural-brush-eeg-art.git
-cd neural-brush-eeg-art
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the app:
-
+After cloning the repository and installing dependencies, run the app:
 ```bash
 streamlit run app.py
 ```
@@ -90,7 +76,9 @@ streamlit run app.py
 
 ## EEG Data
 
-The application includes a small built-in demo EEG dataset for quick testing.
+The application includes a small built-in demo EEG dataset for quick testing. The EEG is chosen from the following dataset: 
+
+[Guttmann-Flury, E., Sheng, X. & Zhu, X. Dataset combining EEG, eye-tracking, and high-speed video for ocular activity analysis across BCI paradigms. Sci Data 12, 587 (2025).](https://arxiv.org/pdf/2506.07488)
 
 Users can also upload their own EEG CSV files through the Streamlit sidebar.
 
