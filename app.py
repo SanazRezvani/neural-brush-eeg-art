@@ -525,7 +525,7 @@ with left:
 with right:
     st.subheader("Generated neural artwork")
 
-    mode = st.radio("Display mode", ["Single frame", "Animate"], horizontal=True)
+    mode = st.radio("Display mode", ["Animate", "Single frame"], horizontal=True)
 
     if mode == "Single frame":
 
