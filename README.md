@@ -39,6 +39,8 @@ Rather than functioning as a clinical brain-computer interface, Neural Brush exp
 | Theta (4–7 Hz) | Dreamlike expansion, glow, atmosphere |
 | Blink Events | Visual bursts and transient intensity changes |
 
+![demo](output.gif)
+
 ---
 
 ## Explore the live interactive version of the application [here](https://neural-brush.streamlit.app)
