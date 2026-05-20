@@ -2,6 +2,10 @@
 
 Real-time EEG-driven generative art using neuro-reactive visual interaction, flow fields, and particle systems.
 
+## Explore the live interactive version of the application [here](https://neural-brush.streamlit.app).
+
+The application allows users to experiment with EEG-driven generative visuals in real time by either using the built-in demo EEG dataset or uploading their own EEG CSV recordings. As neural oscillatory dynamics change over time, the visual environment continuously adapts through flow-field motion, particle behaviour, atmospheric glow, and neuro-reactive colour transformations.
+
 ---
 
 ## Overview
@@ -36,12 +40,6 @@ Rather than functioning as a clinical brain-computer interface, Neural Brush exp
 | Blink Events | Visual bursts and transient intensity changes |
 
 ![demo](output.gif)
-
----
-
-## Explore the live interactive version of the application [here](https://neural-brush.streamlit.app)
-
-The application allows users to experiment with EEG-driven generative visuals in real time by either using the built-in demo EEG dataset or uploading their own EEG CSV recordings. As neural oscillatory dynamics change over time, the visual environment continuously adapts through flow-field motion, particle behaviour, atmospheric glow, and neuro-reactive colour transformations.
 
 ---
 
