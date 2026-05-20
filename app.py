@@ -15,7 +15,6 @@ from scipy.signal import welch
 # -----------------------------
 st.set_page_config(
     page_title="Neural Brush EEG Art",
-    page_icon="🧠",
     layout="wide",
 )
 
