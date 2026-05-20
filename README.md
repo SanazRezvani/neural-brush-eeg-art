@@ -2,10 +2,6 @@
 
 Real-time EEG-driven generative art using neuro-reactive visual interaction, flow fields, and particle systems.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![EEG](https://img.shields.io/badge/EEG-Generative_Art-purple)
-
 ---
 
 ## Overview
